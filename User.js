@@ -20,4 +20,5 @@ const John = new User(
     '1234'
 )
 John.login('luiseisabelle@gmail.com', '1234')
+John.login('luiseisabellegmail.com', '1234')
 
